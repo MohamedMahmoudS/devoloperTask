@@ -1,0 +1,23 @@
+C:\Users\Mohamed\Desktop\DeveloperAssignment Solution\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Mohamed\Desktop\DeveloperAssignment Solution\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Mohamed\Desktop\DeveloperAssignment Solution\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Mohamed\Desktop\DeveloperAssignment Solution\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\DeveloperAssignment Solution\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\DeveloperAssignment Solution\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\DeveloperAssignment Solution\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\DeveloperAssignment Solution\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\DeveloperAssignment Solution\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Mohamed\Desktop\DeveloperAssignment Solution\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Mohamed\Desktop\DeveloperAssignment Solution\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Mohamed\Desktop\DeveloperAssignment Solution\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\devoloperTask\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\devoloperTask\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\devoloperTask\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\devoloperTask\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\devoloperTask\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\devoloperTask\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\devoloperTask\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\devoloperTask\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\devoloperTask\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\devoloperTask\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Mohamed\source\repos\MohamedMahmoudS\devoloperTask\Core\obj\Debug\net6.0\ref\Core.dll
